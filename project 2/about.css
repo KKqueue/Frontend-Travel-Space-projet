@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Handjet&family=Kanit:wght@200&family=Rajdhani&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Handjet&family=Kanit:wght@200&family=Rajdhani&family=Raleway&display=swap');
+body{
+    align-items: center;
+    margin: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: -webkit-linear-gradient(60deg, rgb(147, 194, 226), rgb(255, 255, 255));;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(85, 85, 85, 0.341);
+    padding-right: 10px;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#logo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 17px;
+    margin-left: 10px;
+}
+
+#logo a{
+    color: black;
+    text-decoration: none;
+}
+
+ol{
+    list-style: none;
+    display: flex;
+    margin-top: 27px;
+}
+
+li{
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+li a{
+    text-decoration: none;
+    padding: 5px 10px;
+    color: black;
+}
+
+li #nav:hover{
+    background-color: rgb(239, 239, 239);
+    border-radius: 5px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: rgb(217, 217, 217);
+    height: 40px;
+}
+
+footer ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+ul i{
+    font-size: 25px;
+}
+
+#main{
+    margin: 0px auto 0px auto;
+}
+
+#content{
+    padding-left: 20px;
+    bottom: 0;
+}
+#con{
+    display: flex;
+}
+
+#icon{
+    padding: 10px;
+    margin-top: 13px;
+}
+
+#content p{
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 40px;
+    margin-top: 0;
+}
+
+#teampic img{
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+#abtcon{
+    background-color: white;
+    top: 0;
+    bottom: 0;
+    padding-top: 50px;
+    padding: 10px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+#con h3{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Handjet', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+#content p h4{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Handjet', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+#content h4{
+    text-decoration: underline;
+    padding-left: 50px;
+    text-transform: uppercase;
+}
+
+#mail p{
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#mail img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0px auto 0px auto;
+    padding-bottom: 20px;
+    
+}
+
+#mails img{
+    width: 300px;
+    height: 60px;
+    display: block;
+    margin: 0px auto;
+}

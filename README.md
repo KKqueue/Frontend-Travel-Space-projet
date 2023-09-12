@@ -45,7 +45,7 @@ Travel Space is your ultimate travel companion, designed to make your travel pla
 
 Home Page : 
 
-![Screenshot (48)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/85de6195-df77-42ea-98a8-caa3492ac523))
+![Screenshot (48)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/85de6195-df77-42ea-98a8-caa3492ac523)
 
 Destinations Page : 
 ![Screenshot (49)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/81e5b21f-f5d8-4b76-b51b-a58cd6cc5e1c)

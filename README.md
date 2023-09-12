@@ -45,19 +45,18 @@ Travel Space is your ultimate travel companion, designed to make your travel pla
 
 Home Page : 
 
-(![Screenshot (48)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/85de6195-df77-42ea-98a8-caa3492ac523))
+![Screenshot (48)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/85de6195-df77-42ea-98a8-caa3492ac523))
 
 Destinations Page : 
-![DESTINATIONS Page](![Screenshot (49)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/81e5b21f-f5d8-4b76-b51b-a58cd6cc5e1c)
-)
+![Screenshot (49)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/81e5b21f-f5d8-4b76-b51b-a58cd6cc5e1c)
+
 
 About Page: 
-![ABOUT Page](![Screenshot (51)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/e3cb3c1d-c036-418c-9684-04afdd4af2fc)
-)
+![Screenshot (51)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/e3cb3c1d-c036-418c-9684-04afdd4af2fc)
 
 Contact Page : 
-![CONTACT US Page](screenshots/contact-us.png![Screenshot (50)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/9c865973-7498-4795-b325-725eacce35d0)
-)
+![Screenshot (50)](https://github.com/KKqueue/Frontend-Travel-Space-projet/assets/140342676/9c865973-7498-4795-b325-725eacce35d0)
+
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
